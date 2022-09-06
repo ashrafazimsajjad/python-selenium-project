@@ -1,0 +1,9 @@
+2022-06-21 17:08:37,157 : INFO : test_profileData : Sajjad
+2022-06-21 17:08:37,158 : INFO : test_profileData : sajjadhossain
+2022-06-21 17:09:38,021 : INFO : test_profileData : Sajjad
+2022-06-21 17:09:38,022 : INFO : test_profileData : sajjadhossain
+2022-06-21 17:09:38,025 : DEBUG : pytestsDemo.test_logging : A debug statement is executed
+2022-06-21 17:09:38,025 : INFO : pytestsDemo.test_logging : Information statement
+2022-06-21 17:09:38,025 : WARNING : pytestsDemo.test_logging : Something is in warning mode
+2022-06-21 17:09:38,026 : ERROR : pytestsDemo.test_logging : A major error has happened
+2022-06-21 17:09:38,026 : CRITICAL : pytestsDemo.test_logging : Critical issue

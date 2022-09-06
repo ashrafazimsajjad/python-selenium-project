@@ -1,0 +1,101 @@
+1654603828281	geckodriver	INFO	Listening on 127.0.0.1:54123
+1654603831363	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54124" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofileQwQ8CE"
+1654603831666	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54124
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofileQwQ8CE\\search.json.mozlz4", (void 0)))
+1654603833421	Marionette	INFO	Listening on port 54145
+DevTools listening on ws://localhost:54124/devtools/browser/9ce64dfa-fed4-49c1-860b-24c9bd7564c1
+Read port: 54145
+1654603833474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QVskxRw7CvsogGZyHRgqudPcMMWoBc1HqTdFrXgdWFU.js line 2 > eval line 1252 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654603845601	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2294:11
+1654603849347	Marionette	INFO	Stopped listening on port 54145
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 3604, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Started InternetExplorerDriver server (64-bit)
+4.2.0.0
+Listening on port 0
+Only local connections are allowed
+Started InternetExplorerDriver server (64-bit)
+4.2.0.0
+Listening on port 0
+Only local connections are allowed
+1654604898705	geckodriver	INFO	Listening on 127.0.0.1:54377
+1654604901807	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54378" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofileQdZ21T"
+1654604902094	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54378
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofileQdZ21T\\search.json.mozlz4", (void 0)))
+1654604903652	Marionette	INFO	Listening on port 54398
+Read port: 54398
+DevTools listening on ws://localhost:54378/devtools/browser/80d6af0a-150d-4d53-9681-258c3b80703d
+1654604903694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654604947199	Marionette	INFO	Stopped listening on port 54398
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654604954013	geckodriver	INFO	Listening on 127.0.0.1:54457
+1654604957093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54458" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofile7rm7ve"
+1654604957372	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54458
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofile7rm7ve\\search.json.mozlz4", (void 0)))
+1654604958984	Marionette	INFO	Listening on port 54479
+DevTools listening on ws://localhost:54458/devtools/browser/8c0137f4-0fb0-4e75-b034-ddd72e889656
+Read port: 54479
+1654604959082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QVskxRw7CvsogGZyHRgqudPcMMWoBc1HqTdFrXgdWFU.js line 2 > eval line 1391 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654604971614	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2294:11
+1654604975099	Marionette	INFO	Stopped listening on port 54479
+[Parent 1736, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1654605167938	geckodriver	INFO	Listening on 127.0.0.1:54583
+1654605171015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54584" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofileiuUqWk"
+1654605171300	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54584
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofileiuUqWk\\search.json.mozlz4", (void 0)))
+1654605173042	Marionette	INFO	Listening on port 54603
+DevTools listening on ws://localhost:54584/devtools/browser/e7b2c326-75d6-4060-85f2-2e649c82a4d6
+Read port: 54603
+1654605173124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QVskxRw7CvsogGZyHRgqudPcMMWoBc1HqTdFrXgdWFU.js line 2 > eval line 2856 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654605206154	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2294:11
+1654605209716	Marionette	INFO	Stopped listening on port 54603
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656315222390	geckodriver	INFO	Listening on 127.0.0.1:52488
+1656315225494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52489" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofilel8FPcG"
+1656315225848	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52489
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofilel8FPcG\\search.json.mozlz4", (void 0)))
+1656315227804	Marionette	INFO	Listening on port 52511
+DevTools listening on ws://localhost:52489/devtools/browser/616daaf1-057a-4ae5-b986-91de61aa63d8
+Read port: 52511
+1656315227928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1656319465327	Marionette	INFO	Stopped listening on port 52511
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 7472, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
